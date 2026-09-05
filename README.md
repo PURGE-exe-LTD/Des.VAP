@@ -13,11 +13,11 @@ DES.Vap is forked from ZapZap an unofficial WhatsApp Web desktop client built wi
 | Option to send to other user crypto currency with integration with user wallets with just few clicks and to receive crypto in same way if they have crypto wallets connected and turned on receiving from other user numbers their add - to avoid not recognized users money transfers | ❌ | ❌| ✅ 
 | Native system tray integration | ❌ | ✅ | ✅ 
 | Native desktop notifications | Limited | ✅ | ✅ 
-| Linux package manager support | ❌ | ✅ | Maybe
+| Linux package manager support | ❌ | ✅ | ✅ 
 | Flatpak package | ❌ | ✅ | ✅ 
 | AppImage package | ❌ | ✅ | ✅ 
-| Snap package | ❌ | ✅ | Maybe
-| Native DEB package | ❌ | ✅ | Maybe
+| Snap package | ❌ | ✅ | ❌
+| Native DEB package | ❌ | ✅ | ❌
 | Fedora COPR repository | ❌ | ✅ | ✅ 
 | Automatic AppImage updates (`.zsync`) | ❌ | ✅ | ✅ 
 | Spell checking | Browser dependent | ✅ | ✅ | ✅ 
