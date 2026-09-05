@@ -1,7 +1,6 @@
-# [DES.Vap] https://WestVibe.net More info there when I add there too.  – WhatsApp Web Desktop Client
-Forked from ZapZap
+# [] https://WestVibe.net More info there when I add there too.  – WhatsApp Web Desktop Client
 
-ZapZap is an unofficial WhatsApp Web desktop client built with Python, PyQt6 and QtWebEngine. It wraps `https://web.whatsapp.com/` in a desktop application and adds native integration for accounts, notifications, tray behavior, theming and packaging.
+DES.Vap is forked from ZapZap an unofficial WhatsApp Web desktop client built with Python, PyQt6 and QtWebEngine. It wraps `https://web.whatsapp.com/` in a desktop application and adds native integration for accounts, notifications, tray behavior, theming and packaging.
 
 ## Why Forking Des.Vap from ZapZap?
 
