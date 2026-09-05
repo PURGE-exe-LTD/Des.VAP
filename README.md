@@ -31,8 +31,6 @@ DES.Vap is forked from ZapZap an unofficial WhatsApp Web desktop client built wi
 | Saving Voice records and send sound files with automatic format conversion to other formats (video files eventually too later) | ❌ | ❌| ✅ | 
 
 
-v I would edit those options on down later based on 
-
 
 ## Key features
 - WhatsApp Web in a native PyQt6 desktop window.
