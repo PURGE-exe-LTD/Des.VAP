@@ -4,7 +4,7 @@ DES.Vap is forked from ZapZap an unofficial WhatsApp Web desktop client built wi
 
 ## Why Forking Des.Vap from ZapZap?
 
-| Feature | WhatsApp Web | ZapZap | Des.Vap
+| Feature | WhatsApp Web | ZapZap | Des.VAP
 |---------|:------------:|:------:|----------
 | Runs in your default browser | ✅ | ❌ | ❌
 | Will run in native WestVibe.net system and native WestVibe.net browser | ask | ask | ✅
