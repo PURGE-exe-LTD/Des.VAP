@@ -28,7 +28,7 @@ DES.Vap is forked from ZapZap an unofficial WhatsApp Web desktop client built wi
 | Own API to use with other apps | ❌ | ❌| ✅ 
 | Integration with other sites or apps with WestVibe.net plugins | ❌ | ❌| ✅ 
 | Phone calls and text directly if phone or device is connected to device with users SIM card owned by user (with option to turn phone on busy mode) | ❌ | ❌| ✅ 
-
+| Saving Voice records and send sound files with automatic format conversion to other formats (video files eventually too later) | ❌ | ❌| ✅ | 
 
 
 v I would edit those options on down later based on 
